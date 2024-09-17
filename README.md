@@ -17,7 +17,7 @@ The components included are;Coffee, Orders and Customer.
 ### Running the application.
 1. Clone the repository:
 
-    git clone git@github.com:toxidity-18/CoffeeShopP-3.git
+    git clone git@github.com:Raymondsang/PHASE-3-code-challenge-2.git
     cd cafespace.py
 
 2. Follow the project setup instructions to create a virtual environment and install dependencies:
